@@ -45,8 +45,8 @@ For more details on `nHentai Helper`, refer to `violentmonkey/nhentai-helper.md`
 2.  Edit `lf/custom-previewer.sh` to correctly point to your program paths.
 
 ## Showcase
-preview.png
-preview2.png
+![Preview 1](preview.png)
+![Preview 2](preview2.png)
 
 ```
 user@host:~/Downloads$ ls | grep cbz
@@ -55,7 +55,7 @@ user@host:~/Downloads$ ls | grep cbz
 
 opening lf for browsing
 
-lf-preview.png
+![lf Preview](lf-preview.png)
 
 hitting o to read
-reader.png
+![Reader Preview](reader.png)
