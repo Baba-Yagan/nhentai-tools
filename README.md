@@ -43,3 +43,18 @@ For more details on `nHentai Helper`, refer to `violentmonkey/nhentai-helper.md`
 
 1.  Download `pistol` from its releases page: [https://github.com/doronbehar/pistol/releases](https://github.com/doronbehar/pistol/releases)
 2.  Edit `lf/custom-previewer.sh` to correctly point to your program paths.
+
+## Showcase
+preview.png
+preview2.png
+
+```
+user@host:~/Downloads$ ls | grep cbz
+(C97) [ヒツジ企画 (むねしろ)] イモウトハメスオーク [英訳]_[305196].cbz
+```
+
+opening lf for browsing
+
+lf-preview.png
+
+hitting o to read
