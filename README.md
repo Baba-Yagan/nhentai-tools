@@ -58,3 +58,4 @@ opening lf for browsing
 lf-preview.png
 
 hitting o to read
+reader.png
