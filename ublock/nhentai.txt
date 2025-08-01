@@ -1,0 +1,9 @@
+! Title: uBlock nhentai filter
+! Description: filter that removes nonsense from nhentai
+
+nhentai.net###comment-post-container
+nhentai.net###comment-container
+nhentai.net/search##.download-zip-btn.nhentai-helper-btn.btn-secondary.btn
+nhentai.net##.blacklisted
+nhentai.net##.advanced-search-btn.btn-primary.btn:has-text(English + This)
+nhentai.net###download:not(:has-text(zip))

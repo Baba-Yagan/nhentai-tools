@@ -1,0 +1,4 @@
+#.config/lf/lfrc
+set previewer ~/.config/lf/custom_previewer.sh
+
+map o $bash /home/user/Projects/hentai/cbz-mount.sh "$f"
